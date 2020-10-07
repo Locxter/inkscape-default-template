@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo cp default.svg /usr/share/inkscape/templates/default.svg
+cp default.svg ~/.config/inkscape/templates/default.svg
